@@ -41,6 +41,6 @@ python main.py –target 192.168.1.10 –scan-type intense –payloads 5
 
 ## Legal Disclaimer
 
-This tool is intended for educational and testing purposes only. Make sure you have explicit permission before using it against any network or system. The developers of this tool are not responsible for any misuse or damage caused.
+This tool is intended for educational and testing purposes only. Make sure you have explicit permission before using it against any network or system. i wont be responsible for any misuse or damage caused.
 
 
